@@ -1,1 +1,1 @@
-# Computer_Graphics_Project
+Project Title : An Ordinary Day
